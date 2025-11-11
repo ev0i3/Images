@@ -1,0 +1,16 @@
+{
+  "name": "MyToken",
+  "symbol": "MTK",
+  "description": "A utility token for my Solana project.",
+  "image": "https://github.com/ev0i3/Images/blob/main/banner_1920x1080.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://github.com/ev0i3/Images/blob/main/banner_1920x1080.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
